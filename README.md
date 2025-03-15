@@ -1,5 +1,5 @@
 # Books-Cybersecurity
-[![Header](https://github.com/luisfelipesec/Books-Cybersecurity/Images/title.png)](https://github.com/luisfelipesec)
+<img href="https://github.com/luisfelipesec/Books-Cybersecurity" src="https://raw.githubusercontent.com/luisfelipesec/Books-Cybersecurity/refs/heads/main/Images/title.png"/>
 
 #### Source of Books – All books in this library are available through [Anna's Archive](https://annas-archive.org/), an open-access digital repository.
 
@@ -13,4 +13,5 @@
 ### [Pentesting & Ethical Hacking](https://github.com/luisfelipesec/Books-Cybersecurity/#pentest)
 | BOOK  | TITLE | AUTHOR | LANGUAGE |
 |-------|-------|--------|----------|
-| <img width="48" height="80" src="https://nostarch.com/sites/default/files/styles/uc_product_full/public/EvadingEDR_cover.png"/> | Evading EDR | Matt Hand | <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular" href=""/> |
+| <img src="https://m.media-amazon.com/images/I/81FijplDrtL._SL1500_.jpg" width="100" height="150"/> | Ethical Hacking | Daniel G Graham | <img width="96" height="96" src="https://img.icons8.com/color/96/great-britain-circular.png" alt="great-britain-circular"/> |
+| <img src="https://m.media-amazon.com/images/I/7197SiI0YyL._SL1500_.jpg" width="100" height="150"/> | Evading EDR | Matt Hand | <img width="96" height="96" src="https://img.icons8.com/color/96/great-britain-circular.png" alt="great-britain-circular"/> |
